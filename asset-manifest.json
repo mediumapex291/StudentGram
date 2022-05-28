@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68f97e7a.css",
+    "main.js": "/static/js/main.013ff55c.js",
+    "static/media/Consultation.jpg": "/static/media/Consultation.ef4357ef9bfa6e6f0fb0.jpg",
+    "static/media/Gaurika.jpg": "/static/media/Gaurika.c5bb7c2652c9baa7ef89.jpg",
+    "static/media/Logo.png": "/static/media/Logo.2dba26fdf48d4a2e79cb.png",
+    "static/media/Yadav.jpg": "/static/media/Yadav.5b5e673dd10264674239.jpg",
+    "index.html": "/index.html",
+    "main.68f97e7a.css.map": "/static/css/main.68f97e7a.css.map",
+    "main.013ff55c.js.map": "/static/js/main.013ff55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f97e7a.css",
+    "static/js/main.013ff55c.js"
+  ]
+}
